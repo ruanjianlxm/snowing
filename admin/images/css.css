@@ -1,0 +1,153 @@
+TD {
+	FONT-SIZE: 12px; FONT-FAMILY: "宋体", Arial, Tahoma,Verdana,  Helvetica, sans-serif
+}
+.title {
+	FONT-WEIGHT: bolder; FONT-SIZE: 14px
+}
+.comm {
+	FONT-SIZE: 12px
+}
+.copyright {
+	FONT-SIZE: 12px; FONT-FAMILY: "宋体", Arial, Tahoma,Verdana,  Helvetica, sans-serif;
+}
+a img{border:0px}
+a:visited img{border:0px}
+a:link img{border:0px}
+a:hover img{border:0px}
+
+BODY {
+	FONT-SIZE: 12px; FONT-FAMILY: "宋体", Arial, Tahoma,Verdana,  Helvetica, sans-serif;
+}
+.bg {
+	FONT-SIZE: 12px; BACKGROUND-COLOR: #f6f6f6
+}
+INPUT {
+	FONT-SIZE: 12px;
+	font-family: "宋体", Arial, Tahoma,Verdana,  Helvetica, sans-serif;	
+}
+.br {
+	LINE-HEIGHT: 80%
+}
+.toma {
+	FONT-SIZE: 12px; FONT-FAMILY: "宋体", Arial, Tahoma,Verdana,  Helvetica, sans-serif;
+}
+.table-line {
+	BORDER-COLLAPSE: collapse;
+}
+.menu-line {
+	BORDER-COLLAPSE: collapse;
+
+
+
+}
+.td-title-color {
+	FONT-WEIGHT: bold;
+	BACKGROUND-COLOR: #666666;
+	padding-left: 20px;
+	color: #FFFFFF;
+}
+.td-body-color {
+	BACKGROUND-COLOR: #f7f7f7
+}
+.pad-left {
+	PADDING-LEFT: 20px
+}
+.px12 {
+	FONT-SIZE: 12px;
+
+}
+.menu-td-bargain {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px
+}
+.td-border-all {
+	BORDER-RIGHT: 1px solid; BORDER-TOP: 1px solid; BORDER-LEFT: 1px solid; BORDER-BOTTOM: 1px solid
+}
+.td-menu {
+	BORDER-RIGHT: #848284 2px solid; BORDER-TOP: #d6d3ce 2px solid; BORDER-LEFT: #d6d3ce 2px solid; BORDER-BOTTOM: #848284 2px solid
+}
+.lh {
+	LINE-HEIGHT: 160%
+}
+.td-menu-color {
+	padding-left: 10px;
+	background-color: #D6D3CE;
+	background-image: url(images/td_bar.gif);
+	color: #000000;
+
+
+
+}
+.cssselect {
+	font-family: "宋体", Arial, Tahoma,Verdana,  Helvetica, sans-serif;
+	font-size: 12px;
+}
+.mover {
+	border-top: 1px solid #FFFFFF;
+	border-right: 1px solid #848284;
+	border-bottom: 1px solid #848284;
+	border-left: 1px solid #FFFFFF;
+}
+
+.mout {
+	border: 1px solid #D6D3CE;
+}
+.col1 {
+	background-color: #FFE271;
+}
+.col2 {
+	background-color: #F5F5F5;
+}
+.font1 {
+	font-family: "宋体", Arial, Tahoma,Verdana,  Helvetica, sans-serif;
+	font-weight: bold;
+	color: #7D6400;
+
+}
+.font2 {
+	font-family: "宋体", Arial, Tahoma,Verdana,  Helvetica, sans-serif;
+	color: #9B7C00;
+}
+.img-space {
+	margin-right: 5px;
+}
+.img{
+border-style:solid; border-width:0;}
+.table-line-4 {
+	BORDER-COLLAPSE: collapse;
+	border: 1px solid #999999;
+
+}
+.fontw {
+	color: #FFFFFF;
+}
+.pad-button {
+	padding: 0px;
+	font-size: 11.5px;
+
+}
+
+.button{padding:1px;cursor:hand;display:inline;color: #000000; font-weight: normal;border:1px solid #A0BACD;background: #DFDFBF; font-style:normal; font-variant:normal; font-size:12px; font-family:Tahoma, Verdana}
+.btn{height:20px;padding:1px;cursor:hand;display:inline;color: #000000; font-weight: normal;border:1px solid #A0BACD;background: #DFDFBF; font-style:normal; font-variant:normal; font-size:12px; font-family:Tahoma, Verdana}
+
+/*top menu*/
+#bdqt_leftmenu {margin: 0;padding:0 0 0 0px;border-bottom: 1px solid #eee;background: #666666;}
+#bdqt_leftmenu a{float:left;width:65px;display: block;background: #666666 no-repeat center left;color: #000;padding: 5px 0 5px 0;margin: 0 0 0 0;text-decoration: none;color:white;text-align:center;}
+#bdqt_leftmenu a:hover {float:left;width:65px;color: #000;background: #E6EBF7 no-repeat center left;}
+
+.t1 {font:12px 宋体;color:#000000} 
+.t2 {font:12px 宋体;color:#ffffff} 
+.t3 {font:12px 宋体;color:#ffff00} 
+.t4 {font:12px 宋体;color:#800000} 
+.t5 {font:12px 宋体;color:#191970} 
+
+.font1 {  font-family: "宋体"; font-size: 12px; color: #000000}
+.font2 {  font-family: "黑体"; font-size: 20px; font-weight: bold; color: #000000}
+.font3 {  font-family: "宋体"; font-size: 12px; color: #FFFFFF}
+
+A:link {font-size:12px;text-decoration:none;color:#000066;}
+A:visited {font-size:12px;text-decoration:none;color:#000066;}
+A:hover {font-size:12px;text-decoration:none;color:#cc0000;}
+
+.td1 {font-size:12px;text-align:right;background-color:#F5F5F5;color:#000000}
+.td2 {font-size:12px;text-align:left;background-color:#ffffff;color:#000000;}
+.td3 {font-size:12px;text-align:left;background-color:#ffffff;color:#000000;}
